@@ -1,0 +1,26 @@
+regen
+/give @p emerald{display:{Name:'{"text":"regeneration","color":"red","bold":true,"italic":true,"underlined":true}',Lore:['{"text":"gives regeneration"}']}, regeneration:1b} 1
+
+d_p
+/give @p emerald{display:{Name:'{"text":"dolphins_grace","color":"red","bold":true,"italic":true,"underlined":true}',Lore:['{"text":"gives dolphins_grace"}']}, dolphins_grace:1b} 1
+
+haste
+/give @p emerald{display:{Name:'{"text":"haste and night_vision","color":"red","bold":true,"italic":true,"underlined":true}',Lore:['{"text":"gives haste and night_vision"}']}, haste:1b} 1
+
+h_o_f_v
+/give @p emerald{display:{Name:'{"text":"hero_of_the_village","color":"red","bold":true,"italic":true,"underlined":true}',Lore:['{"text":"gives hero_of_the_village"}']}, hero_of_the_village:1b} 1
+
+f_r
+/give @p emerald{display:{Name:'{"text":"fire_resistance","color":"red","bold":true,"italic":true,"underlined":true}',Lore:['{"text":"gives fire_resistance"}']}, fire_resistance:1b} 1
+
+res
+/give @p emerald{display:{Name:'{"text":"resistance","color":"red","bold":true,"italic":true,"underlined":true}',Lore:['{"text":"gives resistance"}']}, resistance:1b} 1
+
+speed
+/give @p emerald{display:{Name:'{"text":"speed","color":"red","bold":true,"italic":true,"underlined":true}',Lore:['{"text":"gives speed"}']}, speed:1b} 1
+
+stre
+/give @p emerald{display:{Name:'{"text":"strength","color":"red","bold":true,"italic":true,"underlined":true}',Lore:['{"text":"gives strength"}']}, strength:1b} 1
+
+w_b
+/give @p emerald{display:{Name:'{"text":"water_breathing","color":"red","bold":true,"italic":true,"underlined":true}',Lore:['{"text":"gives water_breathing"}']}, water_breathing:1b} 1
